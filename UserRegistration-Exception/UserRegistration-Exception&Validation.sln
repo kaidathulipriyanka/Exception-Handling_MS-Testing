@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistration-Exception&Validation", "UserRegistration-Exception&Validation.csproj", "{020CCCE5-5247-4A42-8077-AA915E80E7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistrationMS-Test", "..\UserRegistrationMS-Test\UserRegistrationMS-Test.csproj", "{CA0AB45B-9826-4926-9D79-665449F039DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020CCCE5-5247-4A42-8077-AA915E80E7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020CCCE5-5247-4A42-8077-AA915E80E7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020CCCE5-5247-4A42-8077-AA915E80E7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020CCCE5-5247-4A42-8077-AA915E80E7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0AB45B-9826-4926-9D79-665449F039DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0AB45B-9826-4926-9D79-665449F039DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0AB45B-9826-4926-9D79-665449F039DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0AB45B-9826-4926-9D79-665449F039DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF17671-1902-4D27-9341-9C5FB7AF19D4}
+	EndGlobalSection
+EndGlobal
